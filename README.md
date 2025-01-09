@@ -1,6 +1,4 @@
-![Alt text](https://i.ibb.co.com/n0WcCK8/Grey-minimalist-business-project-presentation.jpg)
-
-https://i.ibb.co.com/n0WcCK8/Grey-minimalist-business-project-presentation.jpg
+![Alt text](https://i.ibb.co.com/gmxwQd4/Grey-minimalist-business-project-presentation.png)
 # 💫 About Me:
 Hi there! 👋 I'm [Meherun Nesa Marjan]  <br>I'm a passionate developer constantly exploring new technologies and building projects that solve real-world problems.<br><br>🛠️ Tech Stack: Skilled in React, Tailwind CSS, and DaisyUI, I enjoy crafting modern, responsive, and visually appealing web applications.<br>🐱 Pet Lover: Proud owner of a growing and curious cat who inspires me to stay curious and playful in my work.<br>🌱 Learning: Always eager to expand my skill set, currently diving deeper into advanced JavaScript frameworks and UI/UX design principles.<br>💡 Projects: I enjoy sharing open-source projects and collaborating with the developer community.<br>Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate on something exciting! 🚀<br>🌱 I’m currently exploring **NEXT.JS**.<br>💡 Always eager to collaborate and contribute to open-source projects.  
 
